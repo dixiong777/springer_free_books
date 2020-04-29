@@ -197,3 +197,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/venv,linux,macos,python,windows,virtualenv
+*.epub
+*.pdf
+*.xlsx
+*.pem
